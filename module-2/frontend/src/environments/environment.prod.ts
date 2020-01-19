@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-    production: false,
+    production: true,
     mysfitsApiUrl: 'http://mysfits-nlb-e7f98d1c3fd93105.elb.us-west-2.amazonaws.com/api'
 };
 
