@@ -12,7 +12,11 @@
   },
   "devDependencies": {
     "@aws-cdk/assert": "^1.21.1",
+    "@aws-cdk/aws-cloudfront": "^1.21.1",
     "@aws-cdk/aws-codecommit": "^1.21.1",
+    "@aws-cdk/aws-iam": "^1.21.1",
+    "@aws-cdk/aws-s3": "^1.21.1",
+    "@aws-cdk/aws-s3-deployment": "^1.21.1",
     "@types/jest": "^24.0.22",
     "@types/node": "10.17.5",
     "aws-cdk": "^1.21.1",
